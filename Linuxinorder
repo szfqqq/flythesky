@@ -1,0 +1,9 @@
+ls 
+ll
+mkdir
+rm -rf
+cd 
+yum -y install 
+if [ $s = 7 ]{
+   then 'echo woshi yige xiaocaiji'
+fi
